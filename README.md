@@ -72,7 +72,7 @@ Newton-Raphson/
 
 ### Input:
 
-```bash
+```text
 Informe a função f(x): x**2 - 2
 Informe o valor inicial de x: 10
 Informe o valor de epsilon: 0.00001
@@ -81,7 +81,7 @@ Informe o número máximo de iterações: 20
 
 ### Output:
 
-```bash
+```text
 ---------- Início do Método de Newton-Raphson ----------
 
 Iteração 0: x = 10.00000, f(x) = 98.00000, Erro estimado = 4.90000
