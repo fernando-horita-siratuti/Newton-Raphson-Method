@@ -141,7 +141,7 @@ Raiz encontrada: x = 1.41421 após 7 iterações.
 [instagram-badge]: https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
 
 [gmail-autor2]: mailto:siratutifernando@gmail.com
-[linkedin-autor2]: https://www.linkedin.com/in/fernando-siratuti-503ba8301/
+[linkedin-autor2]: https://www.linkedin.com/in/fernando-horita-siratuti/
 [github-autor2]: https://github.com/fernando-horita-siratuti
 [instagram-autor2]: https://www.instagram.com/siratuti_/
 
